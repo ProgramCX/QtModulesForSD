@@ -1,0 +1,1 @@
+SecondDownloader的Qt组件更新文件存放处。
